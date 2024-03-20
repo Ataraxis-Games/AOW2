@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69b2bb9a588509642ad515908fbb631c, type: 3}
+  m_Name: RiflemanTeleporter
+  m_EditorClassIdentifier: 
+  obj: {fileID: 4033415687709630392, guid: 8fe8d83fd5d58864a9feb7a7d778af6f, type: 3}
+  health: 1000
+  cost: 200
